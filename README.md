@@ -1,14 +1,14 @@
 # Password Generator
 Welcome to the Password Generator! This web application allows users to generate secure passwords and provides a copy-to-clipboard functionality.
 
-# Features
+## Features
 Generate Passwords: Create strong, random passwords.
 Copy to Clipboard: Easily copy the generated password with a button click.
 Responsive Design: Works seamlessly on various devices.
-# Demo
+## Demo
 Check out the live demo here. [Generate password](https://iamvibhav.github.io/Password-Generator/)
 
-# Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
